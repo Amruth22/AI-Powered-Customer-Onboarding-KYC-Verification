@@ -1,0 +1,28 @@
+This is a sample document for testing the Customer Onboarding KYC Verification system.
+
+Personal Information:
+Name: John Doe
+Date of Birth: January 1, 1990
+Address: 123 Main Street, Anytown, USA
+Phone: +1-555-123-4567
+Email: john.doe@example.com
+
+Identification:
+ID Number: P12345678
+Issued Date: March 15, 2020
+Expiration Date: March 14, 2030
+
+Account Information:
+Account Type: Personal Checking
+Initial Deposit: $5,000.00
+Source of Funds: Employment Income
+
+Risk Assessment:
+Customer Risk Level: Low
+PEP Status: No
+Sanctions Screening: Passed
+
+Declaration:
+I hereby declare that the information provided is true and accurate to the best of my knowledge.
+Signature: _____________________
+Date: ____________
